@@ -1,0 +1,3 @@
+[submodule "projects/LearnTogether/src/fontend/learn-togather"]
+	path = projects/LearnTogether/src/fontend/learn-togather
+	url = git@github.com:yucheng-Li/learn-togather.git
